@@ -23,5 +23,5 @@ We can use it to store some long-running queries from DB or frequently used data
 # Limitations:
 
 It’s a simple example of in-memory cache,
-Distributed cache solutions
+Distributed cache solutions will more efficient
 
